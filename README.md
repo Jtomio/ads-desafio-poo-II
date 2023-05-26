@@ -20,6 +20,11 @@ Suponha uma estrutura de classes (conforme diagrama), para realizar os métodos 
 - Implemente esta estrutura, observando as especificações, inclusive as restrições de encapsulamento referidas neste enunciado. 
 
 
+## Licença
+
+![GitHub](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Aluno
 
 - Nome: Jeison Espindola Tomio
@@ -42,3 +47,7 @@ Este código implementa as classes Calculo, Basico e Estatistico de acordo com a
 
 Compilar e executar esse código em um ambiente de desenvolvimento C# compatível, como o Visual Studio. Certifique-se de criar um novo projeto do tipo "Console Application" e substituir o conteúdo do arquivo Program.cs pelo código fornecido.
 
+
+## 🔗 Link Repositório
+
+[Github](https://github.com/Jtomio/ads-desafio-poo-II)
